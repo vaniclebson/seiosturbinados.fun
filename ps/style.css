@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background: url("bg.jpeg") no-repeat fixed center;
+	background: url("bg.png") no-repeat fixed center;
 	background-size: cover;
 }
 
@@ -51,7 +51,7 @@ body {
 }
 
 .black h1 {
-	color: yellow;
+	color: deeppink;
 }
 
 .black p {
